@@ -6,3 +6,5 @@ The temperature today is 57 degrees Farenheit and the wind is pretty strong.
 :)
 :)
 :)
+
+Simona's edits to the README
